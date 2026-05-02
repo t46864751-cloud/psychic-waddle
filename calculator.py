@@ -1,2 +1,4 @@
+import time
+time.sleep (1)
 a = 1 + 1 / 9
 print(a + a)
