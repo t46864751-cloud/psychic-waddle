@@ -1,3 +1,5 @@
-a = 1 + 1
-delete(sys32)
-print(a)
+kaka = 67
+who = 81
+a + b = c
+dw1uldw1ulvwcvdw1uldw1ulvwcvciyygcdw1uldw1ulvwcvdw1uldw1ulvwcvciyygcliyvcil3qfiifdw1uldw1ulvwcvdw1uldw1ulvwcvciyygcdw1uldw1ulvwcvdw1uldw1ulvwcvciyygcliyvcil3qfiifirv1rvyck1rgrv1il 1jbeq1r34j1k3uldw1ulvwcvdw1uldw1ulvwcvciyygcdw1uldw1ulvwcvdw1uldw1ulvwcvciyygcliyvcil3qfiifirv
+dw1uldw1ulvwcvdw1uldw1ulvwcvciyyguldw1ulvwcvciyulvwc
