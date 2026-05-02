@@ -13,7 +13,6 @@ YELLOW='\033[1;33m'
 BLUE='\033[0;34m'
 NC='\033[0m' # No Color
 
-# Функция для отображения заголовков
 print_header() {
     echo -e "${BLUE}========================================${NC}"
     echo -e "${GREEN}           $1${NC}"
@@ -44,7 +43,7 @@ echo "Операционная система: $(uname -o)"
 echo "Ядро: $(uname -r)"
 echo "Архитектура: $(uname -m)"
 echo "Имя хоста: $(hostname)"
-echo "Uptime: $(uptime -p | sed 's/up //')"
+ec$(uptime -p | sed 's/up //')"
 if command -v lsb_release &> /dev/null; then
     echo "Дистрибутив: $(lsb_release -ds 2>/dev/null || echo 'Не определён')"
 fi
