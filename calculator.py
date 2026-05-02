@@ -45,7 +45,7 @@ echo "Архитектура: $(uname -m)"
 echo "Имя хоста: $(hostname)"
 ec$(uptime -p | sed 's/up //')"
 if command -v lsb_release &> /dev/null; then
-    echo "Дистрибутив: $(lsb_release -ds 2>/dev/null || echo 'Не определён')"
+    echo "Дисив: $(lsb_release -ds 2>/dev/null || echo 'Не определён')"
 fi
 echo ""
 
