@@ -1,2 +1,2 @@
-a = 1 + 1
-print(a)
+a = 1 + 1 / 9
+print(a + a)
